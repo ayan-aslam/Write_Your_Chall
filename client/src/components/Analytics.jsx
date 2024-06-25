@@ -15,8 +15,8 @@ export const Analytics = () => {
           <p>Challs Solved</p>
         </div>
         <div className="div1">
-          <h2>24/7</h2>
-          <p>service</p>
+          <h2></h2>
+          <p></p>
         </div>
       </div>
     </section>
